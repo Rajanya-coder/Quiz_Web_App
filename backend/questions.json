@@ -1,0 +1,111 @@
+{
+  "science": [
+    {
+      "question": "What planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What gas do plants absorb from the air for photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["CO2", "H2O", "O2", "NaCl"],
+      "answer": "H2O"
+    },
+    {
+      "question": "What part of the cell contains genetic material?",
+      "options": ["Cytoplasm", "Nucleus", "Ribosome", "Cell membrane"],
+      "answer": "Nucleus"
+    },
+    {
+      "question": "What force keeps us grounded on Earth?",
+      "options": ["Magnetism", "Friction", "Gravity", "Inertia"],
+      "answer": "Gravity"
+    }
+    
+  ],
+  "arts": [
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the art of paper folding called?",
+      "options": ["Origami", "Calligraphy", "Pottery", "Collage"],
+      "answer": "Origami"
+    },
+    {
+      "question": "Which musical instrument has black and white keys?",
+      "options": ["Guitar", "Violin", "Piano", "Flute"],
+      "answer": "Piano"
+    },
+    {
+      "question": "What is the primary color that is a mix of red and blue?",
+      "options": ["Green", "Orange", "Purple", "Yellow"],
+      "answer": "Purple"
+    },
+    {
+      "question": "In theater, what is the area where actors perform called?",
+      "options": ["Backstage", "Audience", "Stage", "Lobby"],
+      "answer": "Stage"
+    }
+  ],
+  "movies": [
+    {
+    "question": "Who directed the movie 'Inception'?",
+    "options": ["Steven Spielberg", "Christopher Nolan", "James Cameron", "Quentin Tarantino"],
+    "answer": "Christopher Nolan"
+    },
+    {
+      "question": "Which movie features the character Jack Sparrow?",
+      "options": ["Pirates of the Caribbean", "Harry Potter", "The Lord of the Rings", "Avatar"],
+      "answer": "Pirates of the Caribbean"
+    },
+    {
+      "question": "What is the highest-grossing film of all time (as of 2025)?",
+      "options": ["Avengers: Endgame", "Titanic", "Avatar", "Star Wars: The Force Awakens"],
+      "answer": "Avatar"
+    },
+    {
+      "question": "Who played the role of Forrest Gump?",
+      "options": ["Tom Hanks", "Brad Pitt", "Leonardo DiCaprio", "Johnny Depp"],
+      "answer": "Tom Hanks"
+    },
+    {
+      "question": "Which movie series features a character named 'Hermione Granger'?",
+      "options": ["Harry Potter", "The Hunger Games", "Twilight", "Percy Jackson"],
+      "answer": "Harry Potter"
+    }
+  ],
+  "history": [
+    {
+    "question": "Who was the first President of the United States?",
+    "options": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John Adams"],
+    "answer": "George Washington"
+    },
+    {
+      "question": "In which year did World War II end?",
+      "options": ["1945", "1939", "1918", "1950"],
+      "answer": "1945"
+    },
+    {
+      "question": "The Great Wall of China was primarily built to protect against which group?",
+      "options": ["Mongols", "Romans", "Vikings", "Ottomans"],
+      "answer": "Mongols"
+    },
+    {
+      "question": "Who was known as the 'Maid of Orléans'?",
+      "options": ["Joan of Arc", "Cleopatra", "Queen Victoria", "Marie Curie"],
+      "answer": "Joan of Arc"
+    },
+    {
+      "question": "Which empire was ruled by Alexander the Great?",
+      "options": ["Roman Empire", "Macedonian Empire", "Ottoman Empire", "Persian Empire"],
+      "answer": "Macedonian Empire"
+    }
+  ]
+}
