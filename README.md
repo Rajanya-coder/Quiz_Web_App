@@ -11,9 +11,6 @@ An interactive web-based quiz application designed to provide users with an enga
 - **Type Safety:** Built with TypeScript for improved code reliability and maintainability.
 - **Responsive Interface:** Designed to provide a smooth experience across different screen sizes.
 
-## 🌐 Live Demo
-
-[Try the Quiz Web App](https://quiz-web-app-inky.vercel.app/)
 
 ## 🛠️ Tech Stack
 
